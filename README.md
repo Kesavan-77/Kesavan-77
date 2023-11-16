@@ -1,4 +1,4 @@
-![logo](https://github.com/Kesavan-77/Kesavan-77/blob/main/banner.jpeg)
+![logo](https://media.licdn.com/dms/image/D5616AQGOc--RiNF4GQ/profile-displaybackgroundimage-shrink_350_1400/0/1699331790669?e=1705536000&v=beta&t=khNoSwCqRKS2Z5zn7xh9q5y2hZhruByRoFjNq9TgI_g)
 <h1 align="center">Hi 👋, I'm Kesavan Vel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
