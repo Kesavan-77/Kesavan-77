@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kesavan-77&label=Profile%20views&color=0e75b6&style=flat" alt="kesavan-77" /> </p>
 
-- 🌱 I’m currently learning **React Framework**
+- 🌱 I’m currently learning **Backend Technology**
 
 - 📫 How to reach me **kesavanvel77@gmail.com**
 
