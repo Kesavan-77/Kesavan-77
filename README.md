@@ -1,14 +1,10 @@
 # Hello, I'm Kesavan Vel
 
-🌟 Frontend Developer passionate about crafting visually stunning and intuitive user interfaces. I thrive on transforming design concepts into pixel-perfect realities and love diving deep into the intricacies of frontend technologies.
+🚀 Software Developer with a passion for crafting efficient solutions and pushing the boundaries of technology. I excel in building robust software systems that streamline processes and elevate user experiences.
 
-📚 Currently advancing my frontend development skills through self-study and hands-on projects, while actively contributing to open-source initiatives.
+🌱 Currently honing my software development skills through a range of online courses and personal projects, always on the lookout for new challenges to expand my expertise in this dynamic industry.
 
-⚡ Fun fact: I find inspiration for my designs in unexpected places, from nature's patterns to urban street art, believing that creativity knows no bounds.
-
-💡 I'm deeply interested in responsive web design, accessibility, performance optimization, and emerging frontend frameworks and libraries.
-
-💬 Let's discuss all things frontend development, from HTML/CSS techniques to JavaScript frameworks like React and Vue.js. I'm also a fan of exploring hiking trails, experimenting with new recipes, and sharing travel experiences. 🏞️🍲✈️
+⚡ Fun fact: I believe that exceptional software development is not just about writing code, but also about weaving a narrative through technology, where each component contributes to the user's journey.
 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
