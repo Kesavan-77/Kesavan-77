@@ -1,11 +1,6 @@
 # Hello, I'm Kesavan Vel
 
-🚀 Software Developer with a passion for crafting efficient solutions and pushing the boundaries of technology. I excel in building robust software systems that streamline processes and elevate user experiences.
-
-🌱 Currently honing my software development skills through a range of online courses and personal projects, always on the lookout for new challenges to expand my expertise in this dynamic industry.
-
-⚡ Fun fact: I believe that exceptional software development is not just about writing code, but also about weaving a narrative through technology, where each component contributes to the user's journey.
-
+A dedicated Software Developer focused on creating efficient solutions and enhancing user experiences. I'm actively refining my skills through online courses and personal projects, eager to tackle new challenges in this dynamic field.
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
