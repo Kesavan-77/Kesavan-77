@@ -1,6 +1,10 @@
 # Hello, I'm Kesavan Vel
 
-A dedicated Software Developer focused on creating efficient solutions and enhancing user experiences. I'm actively refining my skills through online courses and personal projects, eager to tackle new challenges in this dynamic field.
+💻 Aspiring Software Developer keen on crafting efficient solutions and enhancing user experiences.
+
+🌱 Actively improving skills through internsips and personal projects.
+
+🔍 Eager to contribute and grow in the dynamic field of software development.
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
