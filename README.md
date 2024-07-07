@@ -1,4 +1,4 @@
-# Hello, I'm Kesavan Vel
+# Hello, I'm Kesavan
 
 💻 Aspiring Software Developer keen on crafting efficient solutions and enhancing user experiences.
 
