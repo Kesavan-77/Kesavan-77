@@ -6,7 +6,7 @@
 
 🔍 Eager to contribute and grow in the dynamic field of software development.
 
-## 𝗠𝘆 github Info
+## Github Info
 
 <!--- stats & Trophy (start) -->
 <p>
