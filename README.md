@@ -9,10 +9,6 @@
 
 🔧 Full-Stack Developer skilled in Java, JavaScript, PHP, React.js, Laravel and MySQL.
 
-⚙️ Creative Problem Solver enjoys tackling complex coding challenges.
-
-📈 Quality-Driven committed to writing clean, maintainable, and scalable code.
-
 📧 Let’s Connect: kesavanvel77@gmail.com – Open to new opportunities and collaborations!
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
