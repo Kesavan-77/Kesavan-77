@@ -1,20 +1,18 @@
 # Hello, I'm Kesavan
 
-💻 Software Developer excited about building cool, user-friendly apps!
+💻 Software Developer passionate about building efficient and user-friendly applications.
 
-🌱 Always Learning improving skills through projects and new challenges.
+🌱 Continuous Learner always exploring new technologies and improving skills.
 
-🎨 UI/UX Lover passionate about making designs both beautiful and functional.
+🎨 UI/UX Enthusiast focused on creating intuitive and visually appealing designs.
 
-🔧 Full-Stack Dev skilled in Java, JavaScript, ReactJS, Laravel, PHP, and MySQL.
+🔧 Full-Stack Developer skilled in Java, JavaScript, PHP, React.js, Laravel and MySQL.
 
-⚙️ Problem Solver loves finding creative solutions to tough challenges.
+⚙️ Creative Problem Solver enjoys tackling complex coding challenges.
 
-📈 Code Quality Focused committed to clean, easy-to-understand code.
+📈 Quality-Driven committed to writing clean, maintainable, and scalable code.
 
-🤝 Team Player enjoys collaborating and learning with others.
-
-📧 Let’s Connect: kesavanvel77@gmail.com – Always up for new opportunities!
+📧 Let’s Connect: kesavanvel77@gmail.com – Open to new opportunities and collaborations!
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
